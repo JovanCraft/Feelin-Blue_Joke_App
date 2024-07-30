@@ -25,7 +25,7 @@ Ensure you have Node.js and npm installed on your computer. If not, download and
 
 Open your terminal and run:
 
-git clone https://github.com/your-username/feelin-blue.git
+git clone https://github.com/JovanCraft/Feelin-Blue_Joke_App.git
 cd feelin-blue
 
 ~ Install Dependencies:
